@@ -4,7 +4,7 @@
 
 ## Integrantes
 
-- [Miguel Ánge Ávila Rosas](https://github.com/MiguelAngelAvilaRosas1DAW)
+- [Miguel Ángel Ávila Rosas](https://github.com/MiguelAngelAvilaRosas1DAW)
 - [Alejandro Barnestein Martos](https://github.com/alexbm23)
 - [Álvaro Leiva García](https://github.com/Hisui02)
 
